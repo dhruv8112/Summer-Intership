@@ -88,14 +88,57 @@ Throughout the week, I focused on enhancing data analysis skills, starting with 
  Identify vulnerabilities in previous team member's analysis.\
  Implement improvements to enhance analysis accuracy and reliability.\
  Introduce new key performance indicators or measures in Power BI for enhanced insights.
-## weekkly progress overview
+## weekly progress overview
 Week 3 focused on refining and enhancing project outcomes. Activities included receiving detailed feedback from supervisors, implementing improvements based on feedback, and deepening data analysis skills with Python and Power BI. The week concluded with preparations for final project presentations and reflections on the progress made throughout the internship.
 
 ## week 4
 ## Day 1 
  Participate in the kickoff meeting for the new hotel revenue management project.\
  Identify and analyze weak segments within the project scope.\
- Conduct time series analysis on historical revenue data.\
+ Conducted time series analysis of historical revenue data.\
  Document key findings and insights from the analysis.\
  Prepare initial recommendations for segment improvement based on the analysis.
 ## Day 2
+ Refine and validate segment analysis findings.\
+ Deepen time series analysis with advanced techniques.\
+ Update documentation with refined insights.\
+ Prepare a presentation summarizing findings.
+## Day 3
+ Refine and validate segment analysis findings.\
+ Deepen time series analysis with advanced techniques.\
+ Update documentation with refined insights.\
+ Create segment strategy-wise data visualizations.\
+ Fit insights into time series analysis.\
+ Study-related case studies to inform the project.
+## Day 4-5
+ Continue creating segment strategy-wise data visualizations.\
+ Integrate time series analysis insights into visualizations.\
+ Study machine learning concepts relevant to the project.\
+ Update documentation with new insights and visualizations.\
+ Review case studies related to ML applications in revenue management.
+## Weekly progress overview
+In Week 4, I focused on refining segment strategy-wise data visualizations and integrating time series analysis insights. I deepened my understanding of machine learning concepts and reviewed relevant case studies. The week concluded with presenting updated findings to stakeholders and planning the next steps based on their feedback.
+## week 5
+## Day 1 
+ Participate in discussions regarding the new live project objectives and scope.\
+ Collaborate with teammates to project ideas and strategies.\
+ Begin designing the data model and drafting SQL scripts for data handling and analysis.
+## Day 2
+ Continue discussions on the warehouse inventory supply-demand project, refining objectives and strategies.\
+ Implement clustering methodologies to categorize over 4000+ distinct parts categories effectively.\
+## Day 3
+ Conduct time series analysis on inventory received and delivery ratio trends.\
+ Gather historical data for accurate analysis.\
+ Apply statistical methods to identify patterns and fluctuations.\
+ Visualize analysis results using appropriate tools.\
+ Interpret findings to understand inventory management dynamics.
+## Day 4
+ Identify vulnerable categories within the inventory supply-demand project.\
+ Conduct discussions to analyze vulnerabilities and their impact.\
+## Day 5
+ Document vulnerabilities and proposed solutions for future reference.\
+Present findings and recommendations to stakeholders or the project team.\
+
+### Internship Conclusion
+
+During this internship, I gained valuable experience in data analysis, visualization, and project management. I successfully completed projects involving time series analysis, clustering, and vulnerability assessment in inventory management. I refined my skills in Python, SQL, and data visualization tools like Matplotlib and Power BI. The internship concluded with presentations of findings and recommendations, contributing to team discussions and enhancing my understanding of practical applications in data-driven decision-making.
